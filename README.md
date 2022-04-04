@@ -1,4 +1,4 @@
-## aavegotchi guild example with presets
+## aavegotchi guild gotchi lending example with presets
 
 A lend gotchi button you can spin up locally, or a simple project showing use of `ethers` with `webpack` and the [aavegotchi smart contracts](https://github.com/aavegotchi/aavegotchi-contracts).
 
